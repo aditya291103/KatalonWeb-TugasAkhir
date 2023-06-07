@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_addToCart</name>
+   <tag></tag>
+   <elementGuidId>d4f730bc-066c-4ee2-84ae-83aad02bc865</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'add-to-cart-sauce-labs-fleece-jacket']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c788a387-a0cf-455e-b173-75ff37d2676e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add-to-cart-sauce-labs-fleece-jacket</value>
+      <webElementGuid>29fbf197-0c0f-4986-8460-184eab37db4c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

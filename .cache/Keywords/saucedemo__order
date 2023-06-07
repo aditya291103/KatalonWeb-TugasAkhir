@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "2B171D176B19C834A7991DE6A957F7E3",
+  "keywordClasses": [
+    {
+      "name": "saucedemo.order",
+      "keywordMethods": [
+        {
+          "name": "orderBarang",
+          "parameters": [
+            {
+              "name": "Product",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

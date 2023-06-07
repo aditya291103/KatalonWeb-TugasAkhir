@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_logout</name>
+   <tag></tag>
+   <elementGuidId>debc0a35-f24e-4efb-add9-e73cfda14970</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'logout_sidebar_link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b68f4eab-def2-4c6f-81e4-4926af3a37df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>logout_sidebar_link</value>
+      <webElementGuid>3ab7a958-b6b8-439a-a637-0f5c1adb7f6b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

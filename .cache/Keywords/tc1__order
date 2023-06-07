@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "698B5D20A758AEF543CB3F2681C374D1",
+  "keywordClasses": [
+    {
+      "name": "tc1.order",
+      "keywordMethods": [
+        {
+          "name": "orderBarang",
+          "parameters": [
+            {
+              "name": "Product",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
